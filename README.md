@@ -1,5 +1,5 @@
 # NN-CSO
-The supplementary materials for "Neural Net-Enhanced Competitive Swarm Optimizer for Large-scale Multiobjective Optimization"
+The supplementary materials for "Neural Net-Enhanced Competitive Swarm Optimizer for Large-scale Multi-objective Optimization"
 
 -"Appendix-NN-CSO.pdf" is the supplementary file of NN-CSO, including Figures and Data.
 
